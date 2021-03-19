@@ -1,2 +1,2 @@
 # AURICLE-ROBOTICS-DEV
-auricle robotics development files repository
+Aricle robotics development files repository
